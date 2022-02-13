@@ -1,0 +1,21 @@
+
+.heading{
+  font-size:28px;
+}
+.copy_right_footer{
+  position: fixed;
+  bottom: 0;
+  line-height: 3;
+  background-color: aquamarine;
+  text-align: center;
+  width: 100%;
+  color: darkslategray;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 5px 5px 5px lime;
+}
+ 
+.test_image_and_result{
+  font-size: 20px;
+
+}
